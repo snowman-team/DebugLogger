@@ -1,4 +1,4 @@
-Snowball Android Debug Logger
+Snowball Android Debug Logger <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/logger/images/download.svg?version=0.1.0) ](https://bintray.com/aquarids/maven/logger/0.1.0/link)
 ============
 
 Debug log utils that is easy to use.
@@ -6,9 +6,6 @@ Debug log utils that is easy to use.
 ## Installation
 
 ```groovy
-repositories {
-    maven { url "https://xueqiumobile.bintray.com/maven" }
-}
 dependencies {
     // add dependency, please replace x.y.z to the latest version
     implementation "com.xueqiu.debuglogger:logger:x.y.z"
