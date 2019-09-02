@@ -41,7 +41,7 @@ dependencies {
 publish {
     userOrg = USER_ORG
     groupId = GROUP_ID
-    artifactId = 'logger'
+    artifactId = 'debuglogger'
     publishVersion = VERSION
     desc = 'Debug log utils that is easy to use.'
     website = GITHUB

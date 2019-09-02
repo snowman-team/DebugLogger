@@ -1,4 +1,4 @@
-Snowball Android Debug Logger <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/logger/images/download.svg?version=0.1.0) ](https://bintray.com/aquarids/maven/logger/0.1.0/link)
+Snowball Android Debug Logger <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/logger/images/download.svg?version=0.1.1) ](https://bintray.com/aquarids/maven/logger/0.1.1/link)
 ============
 
 Debug log utils that is easy to use.
@@ -8,7 +8,7 @@ Debug log utils that is easy to use.
 ```groovy
 dependencies {
     // add dependency, please replace x.y.z to the latest version
-    implementation "com.xueqiu.debuglogger:logger:x.y.z"
+    implementation "com.xueqiu.debuglogger:debuglogger:x.y.z"
     
     // with bugly
     implementation "com.xueqiu.debuglogger:bugly:x.y.z"
