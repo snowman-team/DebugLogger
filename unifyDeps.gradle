@@ -9,6 +9,6 @@ rootProject.ext.deps = [
         androidKTX              : "androidx.core:core-ktx:1.0.2",
         androidRecyclerView     : "androidx.recyclerview:recyclerview:1.0.0",
 
-        bugly                   : "com.tencent.bugly:crashreport:2.8.6",
+        bugly                   : "com.tencent.bugly:crashreport:3.0.0",
 ]
 
