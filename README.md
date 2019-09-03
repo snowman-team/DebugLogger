@@ -1,4 +1,4 @@
-Snowball Android Debug Logger <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/logger/images/download.svg?version=0.1.1) ](https://bintray.com/aquarids/maven/logger/0.1.1/link)
+Snowball Android Debug Logger <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/debuglogger/images/download.svg?version=0.1.1) ](https://bintray.com/aquarids/maven/debuglogger/0.1.1/link)
 ============
 
 Debug log utils that is easy to use.
